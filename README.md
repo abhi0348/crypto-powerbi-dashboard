@@ -59,7 +59,9 @@ bashpython run_pipeline.py
 The pipeline auto-schedules itself. Keep the terminal open or set it up as a Windows Task Scheduler job. It runs every day at 08:00 AM automatically.
 5. Open the dashboard
 Open dashboard/Crypto_Analytics_Dashboard.pbix in Power BI Desktop and click Refresh.
+## Dashboard Preview
 
+![Crypto Dashboard](dashboard.png)
 Author:  
 Abhishek Yadav.  
 Data Analyst · 2+ years experience · Power BI · SQL · Python  
